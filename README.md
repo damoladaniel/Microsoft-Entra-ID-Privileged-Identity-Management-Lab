@@ -106,7 +106,7 @@ Microsoft Entra ID → Monitoring → Sign-in logs
 
 <img width="817" height="319" alt="image" src="https://github.com/user-attachments/assets/2528b774-abdc-44fe-b3e4-88113644d499" />
 
-## I also intentionally wrong password attempts
+## I also intentionally tried wrong password attempts
 -Open new incognito/private window
 -Go to: https://portal.azure.com
 -Enter Felipe’s email
