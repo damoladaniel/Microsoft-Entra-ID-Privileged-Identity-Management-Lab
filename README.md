@@ -117,7 +117,23 @@ Microsoft Entra ID → Monitoring → Sign-in logs
 - Password rejected
 - Sign-in fails
 
+
 <br></br>
 
 <img width="797" height="81" alt="Screenshot 2026-11-04 155310" src="https://github.com/user-attachments/assets/b5e4d7c1-9499-4062-a304-2e0055abb5fe" />
 
+<br></br>
+
+### Security Outcomes
+- MFA was successfully enforeced and Tested
+- Conditional Access verified
+- Privileged Identity Management protects admin access
+- Authentication flow validated
+- Audit documented via sign in logs
+
+### Skills Demonstrated
+- Microsoft Entra Conditional Access
+- Privileged Identity Management (PIM)
+- MFA
+- Zero Trust access control
+- Audit logging
