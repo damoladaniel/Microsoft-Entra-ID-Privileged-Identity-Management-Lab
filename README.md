@@ -114,8 +114,8 @@ Microsoft Entra ID → Monitoring → Sign-in logs
 
 ##### Expected Behavior:
 
-Password rejected
-Sign-in fails
+- Password rejected
+- Sign-in fails
 
 <br></br>
 
